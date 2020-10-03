@@ -5,5 +5,8 @@ public class Hello {
         System.out.println("Hello class EU3");
         //more changes are comings
         //i am ready to commit
+
+        //EU3 IS AWESOME!!
+        //EU3 IS LEARNING HOW TO USE GIT ROM INTELLIJ
     }
 }
